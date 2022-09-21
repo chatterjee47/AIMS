@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="62.413638">
+<testcase classname="Verifying Login Functionality" name="To verify Login Page function" time="62.413638">
+<system-out><![CDATA[Given I am in the login page 'https://demoqa.com/login'.....................passed
+When I enter UserName "demoqaname12"........................................passed
+Then I enter Password "Demoqaabc@-1"........................................passed
+And I click on Login button.................................................passed
+Then I should be on the profile page........................................passed
+And I verify the title on the profile page "ToolsQA"........................passed
+]]></system-out>
+</testcase>
+</testsuite>
